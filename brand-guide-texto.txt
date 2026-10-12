@@ -1,0 +1,363 @@
+VeliD Advisory — Brand Guide
+Positioning, voice, visual identity & messaging
+
+VeliD Advisory • Prepared by Carin Verbree • September 2026
+
+
+
+
+ This guide captures how VeliD Advisory looks, sounds and explains itself, so every page, deck and
+ conversation says the same thing in the same voice.
+01 BRAND OVERVIEW
+
+
+
+Who VeliD Advisory is
+
+VeliD Advisory is Carin Verbree’s strategy and sustainability advisory. It helps
+ambitious SMEs grow across borders, starting between the Netherlands and
+Mexico, with Southern France and Spain next.
+
+The name
+VeliD combines Carin’s surname, Verbree, with the first names of her two children. It is a
+personal name, not a category label, and that is deliberate. The firm is built on twenty years of
+lived experience, not on a generic formula that could belong to anyone.
+
+
+The tagline
+Growth that lasts. In full: Helping companies build international growth that lasts. It says what
+the firm is for in plain words, without borrowing the language of compliance or the vagueness
+of “making the world better.”
+
+“I don’t believe growth and sustainability are separate questions.”
+
+ KEY TAKEAWAY
+ VeliD Advisory exists because international growth built without a sustainability lens rarely
+ holds. The Holland House Mexico track record proves that, so the brand doesn’t need to declare
+ it.
+
+
+
+
+02 POSITIONING
+
+
+
+How VeliD Advisory positions itself
+
+Nineteen years in Mexico, seven and a half of them leading the Dutch-
+Mexican Chamber of Commerce, taught Carin what makes international
+growth work and what quietly breaks it.
+
+She has seen companies of every size succeed and fail abroad, which makes it easy to spot the
+common mistakes early: the wrong partner, an offer that was never adapted to the local
+market, a positioning that simply didn’t land. She also knows that growth only holds if it is
+financially, socially, environmentally and organizationally future-proof, and she brings a wide
+network of professionals and organizations, built over two decades, into every project.
+
+
+
+
+ GUIDE                                   VeliD Advisory • 2
+Three reasons companies choose VeliD
+• Local knowledge and first-hand experience, not a report written from a distance.
+
+• An extensive, cultivated network, deployed to help reach the company’s own goals.
+
+• A belief that lasting growth means putting economic, ecological and social impact, and
+  sound governance, at the foundation, not added on afterward.
+
+
+
+
+ GUIDE                                 VeliD Advisory • 3
+03 VOICE & TONE
+
+
+
+How VeliD Advisory sounds
+
+The voice is warm, concrete and grounded in what actually happened, not
+in how impressive it can be made to sound.
+
+In practice
+Speak in the first person when describing experience and proof; Carin lived this, so the writing
+says “I,” not a distanced “VeliD Advisory” hiding the person behind it. Use “VeliD Advisory”
+when describing the offer itself, especially anywhere the firm may one day include other
+people. Every claim about the track record has to be accurate and checkable. If a number or
+an outcome can’t be confirmed, it doesn’t go in.
+
+
+House rules
+• No em dashes, ever, anywhere.
+
+• No declarative self-promotion. Don’t say “I know these markets”; show what was built and
+  let the reader conclude it.
+
+• Avoid short, punchy sentences that read like they were generated to sound confident. Let
+  sentences breathe and explain.
+
+• Keep the register hands-on and specific: cultural training, market entry, a storyline,
+  topicalization, not “leveraging synergies.”
+
+ KEY TAKEAWAY
+ Say what’s true, in a way that shows it happened. The brand doesn’t need to declare its own
+ quality.
+
+
+
+
+ GUIDE                                   VeliD Advisory • 4
+04 LOGO
+
+
+
+The mark
+
+The primary logo is the full VeliD Advisory wordmark. The V and D carry the
+brand’s two accent colors; the underscore after the D is part of the mark, not
+punctuation.
+
+
+
+
+For small spaces (favicons, social avatars, watermarks) use the icon-only mark: the colored V-D
+monogram without the word “Advisory” beneath it.
+
+
+On dark backgrounds
+Use the reversed lockup, cream wordmark with the same coral and teal accents, on Navy.
+Never place the standard dark-text logo on a dark background, and never place the reversed
+light logo on a light background.
+
+
+
+
+Rules
+• Keep clear space around the mark at least the height of the “V.”
+
+• Never stretch, rotate, recolour, or add effects such as shadows or outlines to the logo.
+
+• Don’t place other text or graphics inside the clear space.
+
+• The icon-only mark may stand alone. Don’t crop the full wordmark to fit a small space; use
+  the icon instead.
+
+
+
+
+ GUIDE                                   VeliD Advisory • 5
+05 COLOR
+
+
+
+Color
+
+Navy is the anchor, not the default text color. Teal carries secondary
+hierarchy, coral is reserved for sparing emphasis, and cream creates
+breathing room. Most body text stays dark grey.
+
+ COLOUR                                 HEX                                     USE
+
+ Navy                                   #1F3C54                                 Headings, primary text on
+                                                                                light backgrounds, the
+                                                                                anchor color
+
+ Coral                                  #EB937D                                 Sparing accent: a key word, a
+                                                                                call to action, the D in the
+                                                                                wordmark
+
+ Teal                                   #5D9382                                 Subheadings, labels, section
+                                                                                numbers, the underscore in
+                                                                                the wordmark
+
+ Cream                                  #FAF5EA                                 Backgrounds, the reversed
+                                                                                logo’s wordmark color on
+                                                                                Navy
+
+
+
+Use the Word Styles pane (see the Style Map on the last page) to apply these automatically rather than picking
+colors by eye.
+
+06 TYPOGRAPHY
+
+
+
+Typography
+
+Two typefaces carry the whole brand. Poppins for anything that leads,
+Montserrat for anything that explains.
+
+Poppins SemiBold or Bold sets titles, headings, labels and short callouts, in Navy or Teal
+depending on the level. Montserrat Regular carries every paragraph of running text, lead
+paragraphs and captions, mostly in dark grey or muted tones, so Navy stays reserved for
+structure, not decoration.
+The exact style-by-style breakdown is on the last page of this guide (VeliD Style Map). Apply styles from the Word
+Styles pane; don’t set fonts and colors by hand.
+
+
+
+
+ GUIDE                                            VeliD Advisory • 6
+07 TRACK RECORD
+
+
+
+Experience you can measure
+
+Carin took over a network of 17 member companies at Holland House
+Mexico. When she left, it had grown to 120+ members and partners, and
+turnover had increased from 2.5 million to 11.4 million pesos.
+
+She transformed a network originally built around oil and gas into a platform for sustainable
+trade. Membership naturally comes and goes over the years, but not one member left
+specifically because of that shift. That matters more than the numbers on their own: the
+change held because it was built with people, not imposed on them.
+
+ KEY TAKEAWAY
+ This is the proof that carries the brand. Lead with it wherever the audience needs to trust Carin
+ before the first conversation, not with adjectives about how experienced she is.
+
+
+
+
+08 SERVICES & WAY OF WORKING
+
+
+
+What VeliD Advisory does
+
+Apart from a relatively standard diagnostic report, there is no fixed package,
+because every company that comes to VeliD is in a different place. The
+shape of the work depends on what is actually needed, the stage the
+company is in, and the budget.
+
+Areas of expertise
+• Market entry: strategy and practical groundwork for entering a new country.
+
+• Strategy and offer repositioning, including topicalization: adapting a product, service or
+  story so it actually lands in a new market instead of arriving as a direct translation of what
+  worked at home.
+
+• Sustainability as a competitive advantage, not a compliance exercise.
+
+• Cultural training, team workshops and speaking sessions on international business and
+  cross-cultural collaboration.
+
+• Network and introductions, built over two decades, deployed for the client instead of
+  starting cold.
+
+
+
+
+ GUIDE                                     VeliD Advisory • 7
+The process
+
+Before we start       A free 30-minute introduction, to understand where the company is,
+                      where it wants to go, and whether there’s a meaningful role for VeliD.
+
+
+1. Diagnostic         Once the two sides decide to work together, a closer look at the
+                      current proposition, the opportunity, and what needs to happen to
+                      make it work.
+
+
+2. Strategy & build   Depending on what the diagnostic reveals, this becomes a market
+                      entry strategy, a repositioning strategy, or another tailored approach.
+                      VeliD can stay involved as the strategy is put into practice.
+
+
+3. Support &          Strategic sparring, feedback, connections and hands-on support as
+adjust                things develop. Evaluate, learn and adjust along the way.
+
+
+
+
+ GUIDE                                  VeliD Advisory • 8
+09 NETWORK & COLLABORATION
+
+
+
+How the network works
+
+VeliD Advisory is built on a network in Mexico and beyond, from institutions
+to individual specialists, connected through Netherlands Chambers
+International to Chambers of Commerce worldwide.
+
+Independent collaborators bring specific expertise into a project when it calls for it. Each
+invoices the client directly and is introduced by name and specialism. They are not presented
+as VeliD team members, both because that is what the current legal structure requires and
+because it keeps the positioning honest: VeliD is Carin’s practice, supported by a network, not
+a firm with staff it doesn’t have.
+
+ KEY TAKEAWAY
+ Never write “our team” or “we” in a way that implies employees. Write “VeliD Advisory works
+ with [name], who specializes in [x]” instead.
+
+
+
+
+ GUIDE                                   VeliD Advisory • 9
+VeliD Style Map
+
+Use the Word Styles pane rather than manually changing fonts and colours.
+The names below are the styles built into this template.
+
+ STYLE                     FONT                         COLOUR                  USE
+
+
+                                                                                Document title / cover
+ Title                     Poppins Bold                 Navy
+                                                                                only
+
+
+ Heading 1                 Poppins SemiBold             Navy                    Main section heading
+
+
+ Heading 2                 Poppins SemiBold             Teal                    Subsection heading
+
+
+ Heading 3                 Poppins SemiBold             Teal                    Small subsection
+
+
+                                                                                Section numbers, labels,
+ VeliD Label               Poppins SemiBold             Teal
+                                                                                metadata
+
+
+ VeliD Lead                Montserrat Regular           Muted                   Intro / lead paragraph
+
+
+ Normal / VeliD Body       Montserrat Regular           Dark grey               Main body copy
+
+
+ VeliD Quote               Montserrat Regular           Teal                    Pull quote / principle
+
+
+ VeliD Callout             Poppins SemiBold             Navy                    Short callout text
+
+
+ VeliD Caption             Montserrat Regular           Muted                   Sources, captions, notes
+
+
+ Header                    Poppins SemiBold             Teal                    Small running header
+
+
+ Footer                    Montserrat Regular           Muted                   Footer + page number
+
+
+
+
+color principle
+Navy is the anchor, not the default text color. Teal carries secondary hierarchy; Coral is
+reserved for selective emphasis; Cream creates breathing room. Most body text stays dark
+grey.
+
+ CORAL ACCENT | Use sparingly for a key word, action, or important highlight.
+
+
+
+
+ GUIDE                                        VeliD Advisory • 10
+
